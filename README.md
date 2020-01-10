@@ -1,6 +1,6 @@
 # Blokus
-Authors: [Colin Vandenhof](github.com/ColinVDH/) 
-©2020 under the [MIT license](www.opensource.org/licenses/mit-license.php)  
+Authors: [Colin Vandenhof](https://www.github.com/ColinVDH/) 
+©2020 under the [MIT license](https://www.opensource.org/licenses/mit-license.php)  
 
 ## Overview
 
